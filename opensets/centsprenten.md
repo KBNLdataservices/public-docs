@@ -2,7 +2,7 @@
 sort: 3
 ---
 
-# Catchpenny prints (Centsprenten -aaaaaaaaaaaaa)
+# Catchpenny prints (Centsprenten)
 <img src="../assets/images/collage_prentenboeken1810-1880.jpg" alt="banner" width="50%" align="right"/>
 
 ## Description
