@@ -45,6 +45,8 @@ exclude:
   - dataservices
   - restrictedsets
   - updates.md
+  - kbga
+  - copyright
   - opensets/bibliotheekinzicht
   - opensets/dbnl
   - opensets/delpher
