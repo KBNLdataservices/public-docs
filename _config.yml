@@ -1,6 +1,6 @@
 title: KBNL dataservices documentation
 email: dataservices@kb.nl
-twitter_username: KBNLdataservices
+twitter_username: KBdataservices
 github_username:  KBNLdataservices
 
 url: "https://kbnldataservices.github.io"
@@ -62,7 +62,6 @@ exclude:
   - opensets/kbcode.md
   - opensets/kbnl-websitetexts.md
   - opensets/maps-atlasses.md
-  - opensets/medieval-manuscripts.md
   - opensets/nbt.md
   - opensets/newspaper-ngram.md
   - opensets/nta.md
