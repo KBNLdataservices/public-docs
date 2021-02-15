@@ -33,11 +33,12 @@ Gebruikers kunnen de collectie NGVN bevragen met: x-collection=NGVN
 http://jsru.kb.nl/sru/sru?query=*&version=1.2&operation=searchRetrieve&recordSchema=dc&x-collection=NGVN
 
 ### 2021-02-?
-Staten Generaal Digitaal (SRU-collecties GVN en NGVN)
+Geheugen van Nederland (SRU-collecties GVN en NGVN)
 Collectie GVN is niet meer opvraagbaar met jSRU. 
 Gebruikers kunnen de collectie NGVN bevragen met: x-collection=NGVN
 http://jsru.kb.nl/sru/sru?query=*&version=1.2&operation=searchRetrieve&recordSchema=dc&x-collection=NGVN
 
 ### 2021-02-?
-De collecties SGD, SGD_PAG, SGD_Registers en SGD_kaarten  zijn niet meer opvragaabaar met jSRU.
+Staten Generaal Digitaal
+De collecties SGD, SGD_PAG, SGD_Registers en SGD_kaarten zijn niet meer opvragaabaar met jSRU.
 Deze historische collectie is nu raadpleegbaar op https://zoek.officielebekendmakingen.nl/uitgebreidzoeken/historisch
