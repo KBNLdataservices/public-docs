@@ -6,4 +6,4 @@
 
 You are now on the [```gh-pages``` branch](https://github.com/KBNLdataservices/public-docs/tree/gh-pages). The files on this branch run [https://kbnldataservices.github.io/public-docs](https://kbnldataservices.github.io/public-docs) 
 
-These are the pages under the **Documenation link** in the top navigation on [https://kbnldataservices.github.io/](https://kbnldataservices.github.io/) 
+These are the pages under the **Documentation link** in the top navigation on [https://kbnldataservices.github.io/](https://kbnldataservices.github.io/) 
