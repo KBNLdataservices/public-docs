@@ -52,13 +52,13 @@ Example items:
 SELECT COUNT(?print) AS ?aantal WHERE {
    ?print schema:isPartOf "Centsprenten van de Koninklijke Bibliotheek"@nl . }
 ```
-*[Try it!](http://data.bibliotheken.nl/sparql?qtxt=SELECT+COUNT%28%3Fprint%29+AS+%3Faantal+WHERE+%7B%0D+++%3Fprint+schema%3AisprintOf+%22Centsprenten+van+de+Koninklijke+Bibliotheek%22%40nl+.+%7D%0D%0A&format=text%2Fhtml&timeout=0&debug=on&run=+Run+Query+)* - *[Result (HTML)](http://data.bibliotheken.nl/sparql?default-graph-uri=&query=SELECT+COUNT%28%3Fprint%29+AS+%3Faantal+WHERE+%7B%0D%0A+++%3Fprint+schema%3AisprintOf+%22Centsprenten+van+de+Koninklijke+Bibliotheek%22%40nl+.+%7D%0D%0A&format=text%2Fhtml&timeout=0&debug=on&run=+Run+Query+)* - *[JSON](http://data.bibliotheken.nl/sparql?default-graph-uri=&query=SELECT+COUNT%28%3Fprint%29+AS+%3Faantal+WHERE+%7B%0D%0A+++%3Fprint+schema%3AisprintOf+%22Centsprenten+van+de+Koninklijke+Bibliotheek%22%40nl+.+%7D%0D%0A&format=application%2Fsparql-results%2Bjson&timeout=0&debug=on&run=+Run+Query+)*
+*[Try it!](http://data.bibliotheken.nl/sparql?qtxt=SELECT+COUNT%28%3Fprint%29+AS+%3Faantal+WHERE+%7B%0D+++%3Fprint+schema%3AisPartOf+%22Centsprenten+van+de+Koninklijke+Bibliotheek%22%40nl+.+%7D%0D%0A&format=text%2Fhtml&timeout=0&debug=on&run=+Run+Query+)* - *[Result (HTML)](http://data.bibliotheken.nl/sparql?default-graph-uri=&query=SELECT+COUNT%28%3Fprint%29+AS+%3Faantal+WHERE+%7B%0D%0A+++%3Fprint+schema%3AisPartOf+%22Centsprenten+van+de+Koninklijke+Bibliotheek%22%40nl+.+%7D%0D%0A&format=text%2Fhtml&timeout=0&debug=on&run=+Run+Query+)* - *[JSON](http://data.bibliotheken.nl/sparql?default-graph-uri=&query=SELECT+COUNT%28%3Fprint%29+AS+%3Faantal+WHERE+%7B%0D%0A+++%3Fprint+schema%3AisPartOf+%22Centsprenten+van+de+Koninklijke+Bibliotheek%22%40nl+.+%7D%0D%0A&format=application%2Fsparql-results%2Bjson&timeout=0&debug=on&run=+Run+Query+)*
 
 2) Table of all 1.255 prints with labels, descriptions and images
 ```sparql
 SELECT ?print ?label ?description ?image WHERE {
    ?print schema:isPartOf "Centsprenten van de Koninklijke Bibliotheek"@nl.
-   ?print  rdfs:label ?label.
+   ?print rdfs:label ?label.
    ?print schema:description ?description.
    ?print schema:image ?image.
 } 
@@ -89,6 +89,7 @@ The embbedded table looks like this. Note than we can used the embedded search b
 3) All prints created between 1830 and 1860, and their creatiors
 ```sparql
 ```
+
 
 #### Datadump
 * Datadump in RDF/XML dd. 16-10-2020: [http://data.bibliotheken.nl/files/centsprenten_20201016.ttl.gz](http://data.bibliotheken.nl/files/centsprenten_20201016.ttl.gz) (XX MB)
