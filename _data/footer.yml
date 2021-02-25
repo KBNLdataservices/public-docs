@@ -3,11 +3,11 @@
   header: KB Dataservices 
   links:
     - title: About
-      url:  https://kbnldataservices.github.io//about
+      url:  https://kbnldataservices.github.io/about
     - title: Our data
-      url: https://kbnldataservices.github.io//our-data
+      url: https://kbnldataservices.github.io/our-data
     - title: Data reuse
-      url: https://kbnldataservices.github.io//data-reuse
+      url: https://kbnldataservices.github.io/data-reuse
 
 - block: resources
   header: Resources
