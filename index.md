@@ -52,7 +52,7 @@ Similarly, the same construction is available in the kbnldataservices.github.io 
 * Repo: [https://github.com/KBNLdataservices/public-docs-staging](https://github.com/KBNLdataservices/public-docs-staging/tree/gh-pages) on the ```gh-pages``` branch. 
 
 **Procuction environment**
-* Subsite: [https://kbnldataservices.github.io/public-docs](https://kbnldataservices.github.io/public-docs) (you are here now)
+* Subsite: [https://kbnldataservices.github.io/public-docs](https://kbnldataservices.github.io/public-docs) **(you are here now)**
 * Repo: [https://github.com/KBNLdataservices/public-docs](https://github.com/KBNLdataservices/public-docs/tree/gh-pages) on the ```gh-pages``` branch. 
 
 ### Blog and general pages
