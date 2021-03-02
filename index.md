@@ -6,11 +6,11 @@ sort: 1
 
 <img alt="KB logo" src="assets/images/KB_Nationale-Bibliotheek_Logo_RGB-Zwart-EN.jpg" width="400px" align="right"/>
 
-*Public documentation, code, insights, tips & tricks about the public datasets and collections of the KB, national library of the Netherlands.*  
+*Public documentation, code, insights, tips & tricks about the public datasets and collections of the KB, the national library of the Netherlands.*  
 
-This subsite is formed by the pages under the **Documentation link** in the top navigation on [https://kbnldataservices.github.io/](https://kbnldataservices.github.io/).
+The documentation subsite you are currently on is formed by the pages under the **Documentation link** in the above top navigation.
 
-It is served from the ```gh-pages``` branch of the repo at [(https://github.com/KBNLdataservices/public-docs/tree/gh-pages)]((https://github.com/KBNLdataservices/public-docs/tree/gh-pages)).
+It is served from the ```gh-pages``` branch of the repo at [https://github.com/KBNLdataservices/public-docs/tree/gh-pages](https://github.com/KBNLdataservices/public-docs/tree/gh-pages).
 
 ## Contributing to this site
 If you want to contribute to this site (typically .md files for documentation, code, manuals etc.) you are kindly requested to follow these steps:
