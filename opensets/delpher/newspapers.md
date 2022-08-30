@@ -43,9 +43,9 @@ http://resolver.kb.nl/resolve?urn=ddd:010177653:mpeg21:a0039:ocr  http://resourc
 
 er zijn drie 'kranten'-collecties:
 
-* DDD_krantennr
-* DDD_artikel
-* DDD_titels
+* DDD_krantnr, bv http://jsru.kb.nl/sru/sru?query=*&version=1.2&operation=searchRetrieve&startRecord=1&maximumRecords=10&x-collection=DDD_krantnr
+* DDD_artikel, bv http://jsru.kb.nl/sru/sru?query=tas&version=1.2&operation=searchRetrieve&startRecord=1&maximumRecords=10&recordSchema=ddd&x-collection=DDD_artikel&x-fields=OaiPmhIdentifier%2CdateString%2Czones&x-facets=facets%3A+periode%2Cspatial%2Ctype
+* DDD_pagina, bv http://jsru.kb.nl/sru/sru?query=*&version=1.2&operation=searchRetrieve&startRecord=1&maximumRecords=10&x-collection=DDD_pagina
 
 na klikken op periode face:
 http://jsru.kb.nl/sru/sru?query=tas&version=1.2&operation=searchRetrieve&startRecord=1&maximumRecords=10&recordSchema=ddd&x-collection=DDD_artikel&x-fields=OaiPmhIdentifier%2CdateString%2Czones&x-facets=facets%3A+periode%2Cspatial%2Ctype
